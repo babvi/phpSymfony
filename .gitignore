@@ -1,0 +1,19 @@
+###> symfony/framework-bundle ###
+.env
+/app/config/config_dev.yml
+/app/config/config_prod.yml
+/app/config/config_test.yml
+/app/config/parameters.yml
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+###> symfony/phpunit-bridge ###
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+###> symfony/web-server-bundle ###
+.web-server-pid
+###< symfony/web-server-bundle ###
+/nbproject/
+/public/uploads/
+/public/sample-image/
