@@ -1,0 +1,4 @@
+app_posts:
+    resource: "@AppBundle/Resources/config/routing/posts.yml"
+    prefix:   /posts
+
